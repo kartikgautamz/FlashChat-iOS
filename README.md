@@ -1,5 +1,6 @@
 # Flash-Chat
 <img width="459" alt="Screenshot 2024-09-16 at 7 32 35 PM" src="https://github.com/user-attachments/assets/2f0d4d17-4417-4be1-9b86-b024e3c939aa">
+
 <img width="454" alt="Screenshot 2024-09-16 at 7 33 06 PM" src="https://github.com/user-attachments/assets/9c9de7cc-691c-4c10-a7eb-fbb1444e3cd7">
 <img width="456" alt="Screenshot 2024-09-16 at 7 33 39 PM" src="https://github.com/user-attachments/assets/def2228d-1db8-4433-8aed-a80673d3b0f3">
 
